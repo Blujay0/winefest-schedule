@@ -1,5 +1,5 @@
 # WineFest
-A Schedule for a Wine Festival.
+A Schedule for a Wine Festival. <br />
 Playground for experimenting with page layout, HTML, and CSS.
 
 
