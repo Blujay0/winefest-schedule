@@ -10,3 +10,6 @@ Playground for experimenting with page layout, HTML, and CSS.
 * CSS
   * `overflow` property
 * Google Fonts API
+
+## Resources & Acknowledgements
+[Google Fonts API](https://fonts.google.com/)
